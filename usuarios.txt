@@ -1,0 +1,75 @@
+12
+0
+0
+0 0 0
+0 0 0
+1464478765
+_X_X_X_
+alvaro
+alvaro
+0 -4 0
+3 4 0
+1464479284
+_X_X_X_
+carlos
+carlos
+0 0 0
+0 0 0
+1464478705
+_X_X_X_
+david
+david
+0 -1 0
+0 1 0
+1464478713
+_X_X_X_
+enrique
+enrique
+0 0 0
+4 1 1
+1464482000
+Has empatado la partida contra susana el 2016/05/29
+_X_X_X_
+isabel
+isabel
+0 0 0
+0 0 0
+1464478689
+Has perdido por inactividad contra alvaro el 2016/04/28
+_X_X_X_
+jose
+jose
+0 0 0
+0 0 0
+1464479093
+_X_X_X_
+luis
+luis
+0 -2 0
+0 2 0
+1464478697
+_X_X_X_
+marta
+marta
+0 2 0
+2 0 0
+1464478730
+_X_X_X_
+pepito
+pepito
+0 1 0
+1 2 0
+1464478721
+_X_X_X_
+seta
+seta
+0 0 0
+0 0 0
+1464478750
+_X_X_X_
+susana
+susana
+0 0 0
+3 2 1
+1464482024
+_X_X_X_
